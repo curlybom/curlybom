@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on client-side of no-code solutions that help businesses run smoother &<br>Mentoring aspiring devs and helping them break into the front-end scene
+Currently working on client-side of no-code solutions that help businesses run smoother <br>&<br>Mentoring aspiring devs and helping them break into the front-end scene
 
 
 ## 🌐 Socials:
